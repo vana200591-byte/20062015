@@ -1,0 +1,7 @@
+VSYNC = True
+
+SHADOW = True
+
+ANTI_ALIASING = True
+
+TEXTURE_QUALITY = "HIGH"

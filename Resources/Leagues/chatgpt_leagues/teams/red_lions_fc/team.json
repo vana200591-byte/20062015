@@ -1,0 +1,8 @@
+{
+    id red_lions_fc,
+    name Red Lions FC,
+    short_name RLF,
+    rating 70,
+    country CHATGPT,
+    league chatgpt_league
+}
